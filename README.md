@@ -11,8 +11,6 @@
 - [JS-beautify](https://github.com/beautify-web/js-beautify) 前端美化工具，用于html、js、css的自动化排版
 - [Clipboard](http://www.clipboardjs.cn/) 用于复制代码
 
-![](https://user-gold-cdn.xitu.io/2020/5/13/1720e8922f0da456?imageView2/2/w/800/q/85)
-
 # Build Setup
 
 ``` bash

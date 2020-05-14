@@ -3,9 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 import Element from 'element-ui'
-import 'element-ui/lib/theme-chalk/index.css';
+import '@/assets/icons' // icon
+import '@/assets/element-variables.scss'
 import '@/assets/index.scss' // global css
-import './assets/icons' // icon
 
 Vue.config.productionTip = false
 

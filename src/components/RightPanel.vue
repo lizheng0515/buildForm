@@ -581,6 +581,7 @@ import {
   selectComponents,
   layoutComponents
 } from '@/utils/generator/config'
+import draggable from 'vuedraggable'
 
 const dateTimeFormat = {
   date: 'yyyy-MM-dd',
@@ -596,7 +597,8 @@ const dateTimeFormat = {
 export default {
   components: {
     TreeNodeDialog,
-    IconsDialog
+    IconsDialog,
+    draggable
   },
   props: ['showField', 'activeData', 'formConf'],
   data() {
